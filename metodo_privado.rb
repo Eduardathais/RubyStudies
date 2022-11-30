@@ -21,9 +21,11 @@ class Sorteio
 end
 
 participantes = ["Matias", "Duda", "Amanda", "Guti"]
+
 sorteio = Sorteio.new(participantes)
 
 sorteio.sortear
+
 
 
 
